@@ -46,6 +46,7 @@ public class commonsteps {
         readproperties();
         if (driver==null)
         launchApp();
+        System.out.println("hello laxmi");
 
     }
 
